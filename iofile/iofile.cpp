@@ -1,4 +1,5 @@
 #include <fstream>
+// membaca, menulis dan membaca input output
 #include <iostream>
 #include <string>
 using namespace std;
