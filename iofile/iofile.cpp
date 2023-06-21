@@ -29,4 +29,8 @@ int main() {
 
 	//membuka file dalam mode membaca
 	ifstream infile;
+	// menunjukkan ke sebuah file
+	infile.open("contohfile.txt");
+
+
 }
